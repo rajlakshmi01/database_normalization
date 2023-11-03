@@ -1,0 +1,19 @@
+
+3NF Queries:
+CREATE TABLE StudentID (
+StudentID INT,
+FirstName VARCHAR(255),
+LastName VARCHAR(255),
+PRIMARY KEY (StudentID));
+
+CREATE TABLE Course (
+Course VARCHAR(255),
+CourseStart VARCHAR(255),
+CourseEnd VARCHAR(255),
+Professor VARCHAR(255),
+PRIMARY KEY (Course));
+
+CREATE TABLE Professor (
+Professor VARCHAR(255),
+ProfessorEmail VARCHAR(255),
+PRIMARY KEY (Professor));

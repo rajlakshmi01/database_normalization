@@ -1,0 +1,8 @@
+StudentID: 101, 102, 103, 104, 105
+FirstName: John, Jane, Arindam, Jose, Ada
+LastName: Doe, Roe, Khanda, Franklin, Lovelace
+Course: Math101, Math101, CS101, Bio101, CS101
+Professor: Dr.Smith, Dr.Smith, Dr.Jones, Dr.Watson, Dr.Jones
+ProfessorEmail: smith@mst.edu, smith@mst.edu, jones@mst.edu, watson@mst.edu, jones@mst.edu
+CourseStart: 1/1/2023, 1/1/2023, 2/1/2023, 3/1/2023, 2/1/2023
+CourseEnd: 5/30/2023, 5/30/2023, 6/15/2023, 7/20/2023, 6/15/2023
